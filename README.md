@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panarobert&label=Profile%20views&color=0e75b6&style=flat" alt="panarobert" /> </p>
 
-- 🌱 I’m currently learning **Web Developer Bootcamp 2022**
+- 🌱 I’m currently learning **Web Developer Bootcamp 2023**
 
 - 📫 How to reach me **pana.robert637@gmail.com**
 
